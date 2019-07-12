@@ -1,0 +1,195 @@
+Description
+Status Checks
+Monitoring
+Tags
+	
+Instance ID
+i-07b683f9fc1344535
+	
+Public DNS (IPv4)
+ec2-3-221-155-52.compute-1.amazonaws.com
+Instance state
+running
+	
+IPv4 Public IP
+3.221.155.52
+Instance type
+t2.micro
+	
+IPv6 IPs
+-
+Elastic IPs
+
+	
+Private DNS
+ip-172-31-8-213.ec2.internal
+Availability zone
+us-east-1a
+	
+Private IPs
+172.31.8.213
+Security groups
+launch-wizard-7, default. view inbound rules. view outbound rules
+	
+Secondary private IPs
+Scheduled events
+No scheduled events
+	
+VPC ID
+vpc-41eb7f3b
+AMI ID
+ubuntu/images/hvm-ssd/ubuntu-xenial-16.04-amd64-server-20190628 (ami-0cfee17793b08a293)
+	
+Subnet ID
+subnet-aeb0c8c9
+Platform
+-
+	
+Network interfaces
+eth0
+IAM role
+-
+	
+Source/dest. check
+True
+Key pair name
+cenavirginiakey
+	
+T2/T3 Unlimited
+Disabled
+	
+Owner
+470643554361
+	
+EBS-optimized
+False
+Launch time
+July 12, 2019 at 10:55:49 AM UTC+5:30 (less than one hour)
+	
+Root device type
+ebs
+Termination protection
+False
+	
+Root device
+/dev/sda1
+Lifecycle
+normal
+	
+Block devices
+/dev/sda1
+Monitoring
+basic
+	
+Elastic Graphics ID
+-
+Alarm status
+None
+	
+Elastic Inference accelerator ID
+-
+Kernel ID
+-
+	
+Capacity Reservation
+-
+RAM disk ID
+-
+	
+Capacity Reservation Settings
+Open
+Placement group
+-
+	
+Partition number
+-
+	
+Virtualization
+hvm
+	
+Reservation
+r-0410507880fd53ace
+	
+AMI launch index
+0
+	
+Tenancy
+default
+	
+Host ID
+-
+	
+Affinity
+-
+	
+State transition reason
+-
+	
+State transition reason message
+-
+	
+Stop - Hibernation behavior
+Disabled
+	
+Number of vCPUs
+1
+	
+Name
+	
+Instance ID
+	
+Instance Type
+	
+Availability Zone
+	
+Instance State
+	
+Status Checks
+	
+Alarm Status
+	
+Public DNS (IPv4)
+	
+IPv4 Public IP
+	
+IPv6 IPs
+	
+Key Name
+	
+Monitoring
+	
+Launch Time
+	
+Security Groups
+	
+Owner
+pub-1
+	
+i-0126afc6c2ad44aa9
+	
+t2.micro
+	
+us-east-1b
+	
+running
+	
+2/2 checks passed
+	
+None
+	
+ec2-18-207-213-204.compute-1.amazonaws.com
+	
+18.207.213.204
+	
+-
+	
+cenavirginiakey
+	
+disabled
+	
+July 12, 2019 at 10:55:49 AM UTC+5:30
+	
+launch-wizard-7
+	
+470643554361
+pub-2
